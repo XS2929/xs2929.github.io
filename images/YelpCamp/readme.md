@@ -6,3 +6,4 @@ Images stored for YelpCamp
   yatharth-roy-vibhakar-JfAAiJrzW2M-unsplash.jpg - Photo by yatharth roy vibhakar on Unsplash
   cassie-smart-wMxlI-RiAMM-unsplash.jpg - Photo by Cassie Smart on Unsplash
   sam-marx-a1mVFtmmWjI-unsplash.jpg - Photo by Sam Marx on Unsplash
+  rahul-bhosale-yBgC-qVCxMg-unsplash.jpg - Photo by Rahul Bhosale on Unsplash
