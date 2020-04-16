@@ -4,3 +4,4 @@ Images stored for YelpCamp
   matej-drha--2Uq-zrz58w-unsplash.jpg - Photo by Matej Drha on Unsplash
   serkan-turk-DG-L9xZP-Lw-unsplash.jpg - Photo by Serkan Turk on Unsplash
   yatharth-roy-vibhakar-JfAAiJrzW2M-unsplash.jpg - Photo by yatharth roy vibhakar on Unsplash
+  cassie-smart-wMxlI-RiAMM-unsplash.jpg - Photo by Cassie Smart on Unsplash
