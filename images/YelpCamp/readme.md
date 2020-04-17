@@ -7,3 +7,4 @@ Images stored for YelpCamp
   cassie-smart-wMxlI-RiAMM-unsplash.jpg - Photo by Cassie Smart on Unsplash
   sam-marx-a1mVFtmmWjI-unsplash.jpg - Photo by Sam Marx on Unsplash
   rahul-bhosale-yBgC-qVCxMg-unsplash.jpg - Photo by Rahul Bhosale on Unsplash
+  joris-voeten-gL84ogFsV6s-unsplash.PNG - Photo by Joris Voeten on Unsplash
