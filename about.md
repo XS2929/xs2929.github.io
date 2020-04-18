@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-### Hello 373ers!
+### Thank you for visiting!
 
 Good Luck & Have Fun !
 
 ### Contact me
 
-[xs2929@utexas.edu](mailto:email@domain.com)
+[xshao2929@gmail.com](mailto:email@domain.com)
