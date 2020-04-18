@@ -8,3 +8,6 @@ Images stored for YelpCamp
   sam-marx-a1mVFtmmWjI-unsplash.jpg - Photo by Sam Marx on Unsplash
   rahul-bhosale-yBgC-qVCxMg-unsplash.jpg - Photo by Rahul Bhosale on Unsplash
   joris-voeten-gL84ogFsV6s-unsplash.PNG - Photo by Joris Voeten on Unsplash
+  aniket-deole-M6XC789HLe8-unsplash - Photo by Aniket Deole on Unsplash
+  vlad-shapochnikov-A--cz3cxstI-unsplash - Photo by Vlad Shapochnikov on Unsplash
+  nicolasintravel-oN3U95O4cag-unsplash - Photo by Nicolasintravel on Unsplash
